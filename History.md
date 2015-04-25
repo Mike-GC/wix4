@@ -1,3 +1,5 @@
+* MikeGC: WIXFEAT:4350 - Settings engine no longer keeps archives of all settings changes forever, it now has a reasonable expiration policy.
+
 * SeanHall: WIXFEAT:3933 - Make WixBundleManufacturer variable writable.
 
 * BobArnson: WIXBUG:4700 - Added blurb about SequenceType.first.
